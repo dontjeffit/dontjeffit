@@ -6,5 +6,5 @@ I love doing the impossible!
 - 👯 I’m looking to collaborate or partner with other developers
 - 💬 Ask me about anything🌚,
 - 📫 How to reach me: anujohnjeff@gmail.com 
-- ⚡ Fun fact: Aside from coding I love music, art, fashion, agriculture and evs
+- ⚡ Fun fact: Aside from coding I love music, art, cars and agriculture.
 
