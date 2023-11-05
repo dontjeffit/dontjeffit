@@ -1,7 +1,7 @@
 ### Hi👋, I'm Jefferson
 I love Building Cool things that work on the computer! 
 🙋‍About Me
-- 🔭 I’m currently working with tools like Java and Spring
+- 🔭 I’m currently working with tools like Java, Javascript, c# and other related frameworks
 - 🌱 In my spare time I read books
 - 👯 I’m looking to collaborate or partner with other developers
 - 💬 Ask me about anything🌚,
